@@ -1,0 +1,11 @@
+div.card1{
+    position: absolute;
+    top: 32%;
+    left: 37%;
+}
+
+div.rodape{
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+}
